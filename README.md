@@ -1,1 +1,1 @@
-"# LightMode" 
+# LightMode
